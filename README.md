@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Montoya</h1>
-<h3 align="center">A selft-taught backend developer from Panama</h3>
+<h3 align="center">A junior backend developer from Panama</h3>
 
 - 🌱 I’m currently learning **Spring Boot**
 
